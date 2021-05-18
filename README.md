@@ -1,5 +1,7 @@
 # ray-tracer
 
+A ray tracer from scratch! 
+
 TODO: 
 <Document Rendering equation, maybe tonight lol>
 
