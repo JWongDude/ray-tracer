@@ -1,6 +1,6 @@
 # ray-tracer
 
-A ray tracer from scratch! 
+An old ray tracer project from scratch! 
 
 TODO: 
 <Document Rendering equation, maybe tonight lol>
