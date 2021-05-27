@@ -3,6 +3,9 @@
 ## Description 
 Recursive ray tracer with soft shadows/caustics and global illumination. 
 
+Fun photo of the result: <br>
+![rendering result](https://user-images.githubusercontent.com/54962990/118700874-f616db00-b7c7-11eb-9e78-35122d0eca74.PNG)
+
 ## Background
 Ray tracing simulates the path of light rays as they emerge from a light source, 
 bounce around a scene, and eventually into the camera. 
@@ -47,6 +50,3 @@ The matematical details of the camera transform, local coordinate projection, an
 
 ## Code Walkthrough 
 Start at the main function and "trace" the description above!
-
-Fun photo of the result: <br>
-![rendering result](https://user-images.githubusercontent.com/54962990/118700874-f616db00-b7c7-11eb-9e78-35122d0eca74.PNG)
